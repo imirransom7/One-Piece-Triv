@@ -18,7 +18,7 @@ while True:
     print(f"please select the following: yes, yeah, yup, yah, or sure")
     print(f"If you do not wish to continue, responde with: no, nope, or nah")
     continue
-# Using the funcition quit(), the program will exit if there is any input besides "Yes" or "yes".
+# Using the function quit(), the program will exit if there is any input besides "Yes" or "yes".
 
 name = input("\nSo, to start off, what is your name? ")
 print(f"Nice to meet you {name}!")
